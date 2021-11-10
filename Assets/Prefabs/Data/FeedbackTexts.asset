@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2355d0135b1424e8ebbc3c58251569, type: 3}
+  m_Name: FeedbackTexts
+  m_EditorClassIdentifier: 
+  goodLongGenre:
+  - string1: 'Yeah! I love '
+    string2: .
+  - string1: 'Nice! '
+    string2: '!'
+  - string1: 'Dab on the haters, '
+    string2: ' is the best!'
+  - string1: 'Whoo! '
+    string2: ' is king!'
+  goodLongMood:
+  - string1: 'This song is so '
+    string2: '! Love it!'
+  - string1: 'I always feel '
+    string2: ' when I listen to this. Great song!'
+  - string1: 'Love how '
+    string2: ' this is!'
+  goodLongTopic:
+  - string1: 'This song about '
+    string2: ' really speaks to me.'
+  - string1: 'Nice song about '
+    string2: '!'
+  - string1: 'Really made me think about '
+    string2: ' in my life.'
+  goodLongHitMeter:
+  - string1: This song's awesomeness is off the charts!
+    string2: 
+  - string1: This song's beat is fire.
+    string2: 
+  - string1: I like the beats and the singing.
+    string2: 
+  goodShortGenre:
+  - string1: 'I love '
+    string2: ' songs'
+  - string1: 
+    string2: '''s awesome'
+  - string1: 'I''m down for '
+    string2: 
+  goodShortMood:
+  - string1: 'I love '
+    string2: ' songs'
+  - string1: 'I like the '
+    string2: ' feeling'
+  - string1: 'Super '
+    string2: 
+  goodShortTopic:
+  - string1: 'Songs about '
+    string2: ' are cool'
+  - string1: 'I do like songs of '
+    string2: 
+  - string1: 
+    string2: ' means a lot to me'
+  goodShortHitMeter:
+  - string1: A catchy song
+    string2: 
+  - string1: Sweet tune
+    string2: 
+  mediocreGenre:
+  - string1: 
+    string2: ' is okay, I suppose'
+  - string1: 
+    string2: '''s aight'
+  mediocreMood:
+  - string1: 
+    string2: ' songs are fine, I guess'
+  - string1: 'The '
+    string2: ' feel is decent'
+  mediocreTopic:
+  - string1: 'Songs about '
+    string2: ' are okay'
+  - string1: 
+    string2: ' is kinda interesting'
+  mediocreHitMeter:
+  - string1: Not a bad song
+    string2: 
+  - string1: This tune's alright
+    string2: 
+  badShortGenre:
+  - string1: 'I don''t care for '
+    string2: .
+  - string1: 'I don''t listen to '
+    string2: .
+  - string1: 
+    string2: ' is lame.'
+  badShortMood:
+  - string1: 'I don''t like '
+    string2: ' songs.'
+  - string1: 'I don''t like feeling '
+    string2: .
+  - string1: 
+    string2: ' songs aren''t for me.'
+  badShortTopic:
+  - string1: 'I don''t like songs about '
+    string2: .
+  - string1: 
+    string2: ' doesn''t interest me.'
+  - string1: 'songs about '
+    string2: ' are boring.'
+  - string1: 'I''m not interested in '
+    string2: .
+  badShortHitMeter:
+  - string1: this lacks something.
+    string2: 
+  - string1: this didn't grab me.
+    string2: 
+  - string1: this felt rushed.
+    string2: 
+  - string1: this just wasn't good.
+    string2: 
+  badLongGenre:
+  - string1: 'I hate '
+    string2: . It's lame.
+  - string1: 'I''m not big into '
+    string2: .
+  - string1: 
+    string2: ' music is not my thing.'
+  badLongMood:
+  - string1: 'I feel '
+    string2: ' enough in real life; I don''t need it in a song.'
+  - string1: 
+    string2: ' songs don''t do anything for me.'
+  - string1: 'Another '
+    string2: ' song? Just not feeling it.'
+  badLongTopic:
+  - string1: 'Another song about '
+    string2: . Boring!
+  - string1: 'Who cares about '
+    string2: '?'
+  - string1: 'Meh. Songs about '
+    string2: ' are played out.'
+  badLongHitMeter:
+  - string1: Ew. They really rushed this song out the door.
+    string2: 
+  - string1: Hate to say it, but the artist lacks skill.
+    string2: 
+  - string1: Well, that was terrible. No quality control.
+    string2: 
+  - string1: This studio needs better artists, stat.
+    string2: 
+  - string1: I can't wait for this artist to get a little better!
+    string2: 
+  notTrendingGenre:
+  - string1: 'I''m not as into '
+    string2: ' as I used to be.'
+  - string1: 'Eh, '
+    string2: ' was just a phase for me.'
+  notTrendingMood:
+  - string1: 'I''m over '
+    string2: ' songs.'
+  - string1: 
+    string2: ' songs are getting old.'
+  notTrendingTopic:
+  - string1: 
+    string2: ' is yesterday''s news.'
+  - string1: 
+    string2: '? I''m kind of over that right now.'
+  actualMostPopGenre:
+  - string1: 'I''d rather listen to '
+    string2: .
+  - string1: 'I mostly listen to '
+    string2: .
+  actualMostPopMood:
+  - string1: 
+    string2: ' songs are my favorite.'
+  - string1: 'I prefer feeling '
+    string2: .
+  actualMostPopTopic:
+  - string1: 'I prefer songs about '
+    string2: .
+  - string1: 'I''d rather think about '
+    string2: .
+  conjunctions:
+  - ', but '
+  - '. Too bad '
+  - '. Still, '
+  - '. But '
+  - '. However, '

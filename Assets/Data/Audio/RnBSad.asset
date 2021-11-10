@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: RnBSad
+  m_EditorClassIdentifier: 
+  BPM: 90
+  drumsTrack: {fileID: 8300000, guid: 73a50b9a9c0010b479c8801769547fb5, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: 9d67c280db5ff974eb21aa25de63e936, type: 3}
+  beatTrack: rnb_S01_090BPM_K02_P2
+  beatFiltered: rnb_S01_090BPM_K02_S2
+  releaseGood: rnb_S01_090BPM_K02_RG
+  releaseBest: rnb_S01_090BPM_K02_RB
+  GenreID: 26
+  MoodID: 5

@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 0ee26d09fb0e53640a1e74d4d2036fff
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CouchA
+    100004: CouchB
+    100006: CouchC
+    100008: LobbyCounter
+    100010: MarketingChair
+    100012: MixingBoard
+    100014: PlantA
+    100016: PlantB
+    100018: PreviewBackground
+    100020: PreviewFurnitureLayout
+    100022: Rack
+    100024: RecordingEndTable
+    100026: SigningChairA
+    100028: SigningChairB
+    100030: TableLobby
+    100032: TableMarketing
+    100034: TableSigning
+    100036: Whiteboard
+    400000: //RootNode
+    400002: CouchA
+    400004: CouchB
+    400006: CouchC
+    400008: LobbyCounter
+    400010: MarketingChair
+    400012: MixingBoard
+    400014: PlantA
+    400016: PlantB
+    400018: PreviewBackground
+    400020: PreviewFurnitureLayout
+    400022: Rack
+    400024: RecordingEndTable
+    400026: SigningChairA
+    400028: SigningChairB
+    400030: TableLobby
+    400032: TableMarketing
+    400034: TableSigning
+    400036: Whiteboard
+    2100000: Material__MusicStudio_FurnitureSwatches_png
+    2100002: Material__MusicStudio_InstrumentSwatches_png
+    2100004: None__MusicStudio_InstrumentSwatches_png
+    2100006: Material_001__StudioLayout_png
+    2100008: None__MusicStudio_FurnitureSwatches_png
+    2300000: CouchA
+    2300002: CouchB
+    2300004: CouchC
+    2300006: LobbyCounter
+    2300008: MarketingChair
+    2300010: MixingBoard
+    2300012: PlantA
+    2300014: PlantB
+    2300016: PreviewBackground
+    2300018: PreviewFurnitureLayout
+    2300020: Rack
+    2300022: RecordingEndTable
+    2300024: SigningChairA
+    2300026: SigningChairB
+    2300028: TableLobby
+    2300030: TableMarketing
+    2300032: TableSigning
+    2300034: Whiteboard
+    3300000: CouchA
+    3300002: CouchB
+    3300004: CouchC
+    3300006: LobbyCounter
+    3300008: MarketingChair
+    3300010: MixingBoard
+    3300012: PlantA
+    3300014: PlantB
+    3300016: PreviewBackground
+    3300018: PreviewFurnitureLayout
+    3300020: Rack
+    3300022: RecordingEndTable
+    3300024: SigningChairA
+    3300026: SigningChairB
+    3300028: TableLobby
+    3300030: TableMarketing
+    3300032: TableSigning
+    3300034: Whiteboard
+    4300000: PreviewFurnitureLayout
+    4300002: MixingBoard
+    4300004: PreviewBackground
+    4300006: TableMarketing
+    4300008: SigningChairA
+    4300010: SigningChairB
+    4300012: MarketingChair
+    4300014: TableSigning
+    4300016: PlantA
+    4300018: PlantB
+    4300020: Whiteboard
+    4300022: CouchC
+    4300024: CouchB
+    4300026: TableLobby
+    4300028: Rack
+    4300030: RecordingEndTable
+    4300032: LobbyCounter
+    4300034: CouchA
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

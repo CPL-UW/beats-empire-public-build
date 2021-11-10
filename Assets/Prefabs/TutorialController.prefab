@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1551399721605220}
+  m_IsPrefabParent: 1
+--- !u!1 &1551399721605220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224887632153989856}
+  - component: {fileID: 114174165542795548}
+  m_Layer: 0
+  m_Name: TutorialController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &114174165542795548
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1551399721605220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858ba1867238bf34c80548952dfe57db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tutorialGuy: {fileID: 1317725826355940, guid: ba9cb6f674673d64993c51a6860e435e,
+    type: 2}
+  events:
+  - id: 1
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: 55de2c59d1e940d459b5c1f14512ca35, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 2
+    prerequisiteId: 1
+    charTextInfo: {fileID: 11400000, guid: b7a51af309d2ac040be87ce59cf2e0ee, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 3
+    prerequisiteId: 2
+    charTextInfo: {fileID: 11400000, guid: 3297508e8ea72e34b9aaf32878d01f0b, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 4
+    prerequisiteId: 3
+    charTextInfo: {fileID: 11400000, guid: dc6163431a4183946aea633892214fa2, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 5
+    prerequisiteId: 4
+    charTextInfo: {fileID: 11400000, guid: 7e553b5dd99100b4683625548e817f48, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 6
+    prerequisiteId: 5
+    charTextInfo: {fileID: 11400000, guid: 4014caeca3c015c489d7c1bbde1eae7e, type: 2}
+    animateOut: 1
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 7
+    prerequisiteId: 6
+    charTextInfo: {fileID: 11400000, guid: 4deefdd089a2a1546b0ab4440d5e14eb, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 8
+    prerequisiteId: 7
+    charTextInfo: {fileID: 11400000, guid: f1d0116ace80cc340b158ec4c2acbc6d, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 9
+    prerequisiteId: 8
+    charTextInfo: {fileID: 11400000, guid: ed091cd68e119d943919ab8f2c955888, type: 2}
+    animateOut: 1
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 10
+    prerequisiteId: 9
+    charTextInfo: {fileID: 11400000, guid: 23eac52f2cb39ee4d8cb10c3641ea27b, type: 2}
+    animateOut: 1
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 11
+    prerequisiteId: 10
+    charTextInfo: {fileID: 11400000, guid: db45223361448bc4098504f57c11aa6d, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 12
+    prerequisiteId: 11
+    charTextInfo: {fileID: 11400000, guid: 441a9a2f91d4ccc4096d231ef931d81c, type: 2}
+    animateOut: 1
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 13
+    prerequisiteId: 12
+    charTextInfo: {fileID: 11400000, guid: 9cd6c285f23ffab4094d08bbcc438aec, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 14
+    prerequisiteId: 13
+    charTextInfo: {fileID: 11400000, guid: 5835fc35bdd2d834db29060112970504, type: 2}
+    animateOut: 1
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 15
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: 16a608b9c7916fe44a83b5ea12c3b7dc, type: 2}
+    animateOut: 1
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 16
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: 0e301cc27810d1744baed9a3a3d9e30e, type: 2}
+    animateOut: 0
+    direction: 1
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 17
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: 54d1297e542c2fc4f821cb362340d42c, type: 2}
+    animateOut: 0
+    direction: 2
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 18
+    prerequisiteId: 3
+    charTextInfo: {fileID: 11400000, guid: 370331e0a125a9f418ba7d4523f9d162, type: 2}
+    animateOut: 1
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 19
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: bb8477298a1c23c44bc3ff76fbe1c372, type: 2}
+    animateOut: 0
+    direction: 2
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 20
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: d6dee97eb4e8eaf499a5fe948de31d64, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 21
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: 0038a1068cc805a4594c46f76d7a7f3d, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  - id: 22
+    prerequisiteId: 0
+    charTextInfo: {fileID: 11400000, guid: 5484677481d303942ad215d1fc4da3c6, type: 2}
+    animateOut: 0
+    direction: 0
+    tutorialMount: {fileID: 0}
+    triggered: 0
+    completed: 0
+    tutorialObj: {fileID: 0}
+  trendsButton: {fileID: 0}
+  nextWeekUI: {fileID: 0}
+  weekCounter: {fileID: 0}
+  RecordSongButtonCG: {fileID: 0}
+--- !u!224 &224887632153989856
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1551399721605220}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}

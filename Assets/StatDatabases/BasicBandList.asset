@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f7718c67b6b2946bc9bbe6e6876245, type: 3}
+  m_Name: BasicBandList
+  m_EditorClassIdentifier: 
+  Contents:
+  - Name: Four Cat Day
+    Genre:
+      SubType: 24
+      SuperType: 2
+    Members: 000000000100000002000000030000000400000005000000
+  - Name: Sewer Smelt
+    Genre:
+      SubType: 25
+      SuperType: 2
+    Members: 000000000200000005000000
+  - Name: Quest Complete
+    Genre:
+      SubType: 27
+      SuperType: 2
+    Members: 05000000
+  - Name: Wyvern
+    Genre:
+      SubType: 28
+      SuperType: 2
+    Members: 0500000003000000
+  - Name: Houston, Problem
+    Genre:
+      SubType: 26
+      SuperType: 2
+    Members: 000000000400000005000000
+  - Name: Yamato XD
+    Genre:
+      SubType: 29
+      SuperType: 2
+    Members: 000000000200000005000000

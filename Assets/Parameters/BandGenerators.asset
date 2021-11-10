@@ -1,0 +1,1108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccecf5adf4a084d0fab45307aa06f256, type: 3}
+  m_Name: BandGenerators
+  m_EditorClassIdentifier: 
+  generators:
+  - name: Deft Tunes
+    genre: 0
+    members:
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 2800000, guid: 313a1e3edba189e46b2ac1322a42430a,
+        type: 3}
+      pose: 0
+      poseOverride: {fileID: 100000, guid: 758c804c59a36a045be88a6fa0f4c029, type: 3}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 1
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 2100000, guid: dc494917e2942bf499919004787f52ab,
+        type: 2}
+      pose: 0
+      poseOverride: {fileID: 100000, guid: 6ea08f8587670d94ab0cc0e3d9d739f8, type: 3}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 2100000, guid: dc494917e2942bf499919004787f52ab,
+        type: 2}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 2100000, guid: dc494917e2942bf499919004787f52ab,
+        type: 2}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 2100000, guid: dc494917e2942bf499919004787f52ab,
+        type: 2}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Lead Zipline
+    genre: 0
+    members:
+    - instrument: 1
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Manic! at the Bistro
+    genre: 0
+    members:
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 1
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+  - name: Four Cat Day
+    genre: 0
+    members:
+    - instrument: 1
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Arcadia Ice
+    genre: 0
+    members:
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 1
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Driftwood Pac
+    genre: 0
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 5
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 1
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Juno Mercury
+    genre: 1
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 3
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Envision Gryphons
+    genre: 1
+    members:
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Adriana Venti
+    genre: 1
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 3
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: BPX
+    genre: 1
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 4
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 6
+      gender: 1
+      skinTone: 4
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 6
+      gender: 1
+      skinTone: 4
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 6
+      gender: 1
+      skinTone: 4
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 6
+      gender: 1
+      skinTone: 4
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+  - name: Madam Zaza
+    genre: 1
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 5
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 2800000, guid: 8ae382e2b129a406589dbc90eba3b957,
+        type: 3}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 2800000, guid: 624d5a7bde5604d91ba23ba3b7bf036b,
+        type: 3}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: M!nk
+    genre: 1
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 5
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 1
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Pharrell Millions
+    genre: 2
+    members:
+    - instrument: 3
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Alyssa Keyes
+    genre: 2
+    members:
+    - instrument: 3
+      gender: 2
+      skinTone: 2
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Beyonde
+    genre: 2
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 2
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Ushest
+    genre: 2
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Stevie Thunder
+    genre: 2
+    members:
+    - instrument: 3
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 5
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Bilanna
+    genre: 2
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 2
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Butane Plan
+    genre: 3
+    members:
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Brake
+    genre: 3
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 3
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Lauren Tyll
+    genre: 3
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 2
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: DJ Kale
+    genre: 3
+    members:
+    - instrument: 3
+      gender: 1
+      skinTone: 3
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: The Candy Mill Gang
+    genre: 3
+    members:
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 6
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+  - name: Micki Mirage
+    genre: 3
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 2
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+    - instrument: 2
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Lil Biggie
+    genre: 4
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 2
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 1
+  - name: Zee Jay
+    genre: 4
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+  - name: Reesus Peaces
+    genre: 4
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 5
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Halfa Dollar
+    genre: 4
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+  - name: Tanya East
+    genre: 4
+    members:
+    - instrument: 6
+      gender: 2
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+  - name: 6Pac
+    genre: 4
+    members:
+    - instrument: 6
+      gender: 1
+      skinTone: 1
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 0
+      isBackup: 0
+  - name: Paft Dunk
+    genre: 5
+    members:
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Apex Triplet
+    genre: 5
+    members:
+    - instrument: 4
+      gender: 1
+      skinTone: 5
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: livehau5
+    genre: 5
+    members:
+    - instrument: 4
+      gender: 1
+      skinTone: 5
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: The Switch Knob
+    genre: 5
+    members:
+    - instrument: 4
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 3
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 5
+      gender: 0
+      skinTone: 0
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: Grillex
+    genre: 5
+    members:
+    - instrument: 4
+      gender: 1
+      skinTone: 5
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  - name: The Chemistry Sisters
+    genre: 5
+    members:
+    - instrument: 4
+      gender: 2
+      skinTone: 4
+      skinToneOverride: {fileID: 0}
+      pose: 0
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+    - instrument: 3
+      gender: 2
+      skinTone: 4
+      skinToneOverride: {fileID: 0}
+      pose: 1
+      poseOverride: {fileID: 0}
+      featurePose: 1
+      isBackup: 0
+  heads:
+    female:
+    - {fileID: 100004, guid: 038679bd06f152741b1a4f8601ab82e4, type: 3}
+    - {fileID: 100004, guid: cdf24071740302c48bee0028414c7d04, type: 3}
+    - {fileID: 100000, guid: b209c11f47a2a294b83c90bb674c239b, type: 3}
+    - {fileID: 100000, guid: 0df7ef2a0d3e4b64d81035ae537c6a04, type: 3}
+    - {fileID: 100000, guid: 2cf5678254c2f2d4690301126ee79d6d, type: 3}
+    - {fileID: 100000, guid: 6a73db69c9f4aeb4d97dbdf23cebf0cd, type: 3}
+    - {fileID: 100000, guid: 9153caffaea211641867e841b9b0cb6d, type: 3}
+    - {fileID: 100000, guid: bfc41b77822ff894db1fed5c79829a4d, type: 3}
+    - {fileID: 100000, guid: 33f227d5e60ed054e9a43089a0a33a58, type: 3}
+    - {fileID: 100000, guid: 22979e03f13234e4994bdae94c0bef0b, type: 3}
+    - {fileID: 100000, guid: f57971692a639ea4aa20155806cd0afd, type: 3}
+    - {fileID: 100000, guid: 65fd105d4fd0ee04bb32966e4f480171, type: 3}
+    - {fileID: 100000, guid: 14e2c9549c49b734191a45d60bcfebf0, type: 3}
+    - {fileID: 100000, guid: 0791701e7c8215747a0b957c0a226ba1, type: 3}
+    - {fileID: 100000, guid: 1fb41f18ed5f38442a6935008fc40260, type: 3}
+    - {fileID: 100000, guid: c711ca5be97989d43964f7770b1f8f1e, type: 3}
+    - {fileID: 100000, guid: 36feb49075c83674a855beee0c5097d8, type: 3}
+    male:
+    - {fileID: 100000, guid: 193d4f8f82f9a624c94f8010324b06b1, type: 3}
+    - {fileID: 100000, guid: 5217aa5ef60d536459394e3e554f795a, type: 3}
+    - {fileID: 100000, guid: e29b68a438dcc8b46a4d514910cf726b, type: 3}
+    - {fileID: 100000, guid: f2c3274bfcded9b478703b77846fe94a, type: 3}
+    - {fileID: 100000, guid: c5606596094ab0743b653a64c6b50c14, type: 3}
+    - {fileID: 100000, guid: ecfe6e28f24564249be56026c47b8e76, type: 3}
+    - {fileID: 100000, guid: e12aa82454f4b404b98be6ed454fc3e4, type: 3}
+    - {fileID: 100000, guid: 96c4c477d2b42dc408eaf0f318458360, type: 3}
+    - {fileID: 100000, guid: 0ea35d2024276c447b6be6f6e2fb5dbe, type: 3}
+    - {fileID: 100000, guid: b8d92e31942567d478e7b1e6778d5efe, type: 3}
+    - {fileID: 100000, guid: 9fdb5ba65319a2840932f8daa70a7da5, type: 3}
+    - {fileID: 100000, guid: 1d8321d9f7daab84cb828f66a5156d0e, type: 3}
+    - {fileID: 100000, guid: fedc06780bb56844e9ea296ab63895d5, type: 3}
+    - {fileID: 100000, guid: b50d57abd6143ca49a9ec085189f5833, type: 3}
+    - {fileID: 100000, guid: 0c876a3e99eda5e429846fc186a04247, type: 3}
+    - {fileID: 100000, guid: a0ec1e00178392f459ae7da2d3119f53, type: 3}
+    - {fileID: 100000, guid: 4edf2fed787a4e249b3bd05c44736b71, type: 3}
+  torsos:
+    female:
+    - {fileID: 100004, guid: fa1d15f8c3aefd94f96f45d8c222cbbc, type: 3}
+    - {fileID: 100004, guid: b921d5059798ab745aa24fc115e5003e, type: 3}
+    - {fileID: 100000, guid: 5cf85367c1ef00f4c8d7634fc0eb2b83, type: 3}
+    - {fileID: 100000, guid: 9b56c92a632ab2a4f8b5a74f91e5b2e1, type: 3}
+    - {fileID: 100000, guid: baf419331eaa663489f34751c974344f, type: 3}
+    - {fileID: 100000, guid: a8f98c8847fc6ca4b980398a397fa1b1, type: 3}
+    - {fileID: 100000, guid: e7b65844db56dd84b8817735891fe196, type: 3}
+    - {fileID: 100000, guid: 230d9d3a7f500064b90830e9b6d9f08b, type: 3}
+    - {fileID: 100000, guid: b3bc9f058f2d74844bf39ef395e24bcf, type: 3}
+    - {fileID: 100000, guid: a48991eca1ceddc418f27f3a7859de1e, type: 3}
+    male:
+    - {fileID: 100000, guid: f0299634a893c17439bd77ea9c262757, type: 3}
+    - {fileID: 100000, guid: 16d28d51a45be364ba3529a909d24e2c, type: 3}
+    - {fileID: 100000, guid: edfb778c2bf3c314d88f538458a7b9f7, type: 3}
+    - {fileID: 100000, guid: f722ebddb889eaa44b858bc35aa41af1, type: 3}
+    - {fileID: 100000, guid: b5b88f4de27b9e74c8940a11e87b9c7f, type: 3}
+    - {fileID: 100000, guid: af1de35f091795e439caeda08ef82dc5, type: 3}
+    - {fileID: 100000, guid: 4fdb9c450a3b41340affbab92193282a, type: 3}
+    - {fileID: 100000, guid: e3718e0e3195ca54d817e5453c80be2b, type: 3}
+    - {fileID: 100000, guid: 7b21bbb84e493094297a85bd4c9a0a85, type: 3}
+    - {fileID: 100000, guid: cf6364b663e853d40a71d64e3e4a603f, type: 3}
+  legs:
+    female:
+    - {fileID: 100004, guid: 1a2fcb099d6eb4e4e9cca717f5a5e74a, type: 3}
+    - {fileID: 100004, guid: e0967c8740ca2744d82f733d6a373988, type: 3}
+    - {fileID: 100000, guid: b081955472621574f8deff6d7e8a466a, type: 3}
+    - {fileID: 100000, guid: 03ae8cb502066514581c3bcbdd65ca5b, type: 3}
+    - {fileID: 100000, guid: f37e1e911f5e5ae4bb37ec7610d01844, type: 3}
+    - {fileID: 100000, guid: cea2d6f0a08152848ad03f51f60dcf47, type: 3}
+    - {fileID: 100000, guid: ad06a1f7fc62787478fd25a91c70c2e0, type: 3}
+    - {fileID: 100000, guid: 1b9c527a7cc6a3a47bee3adf8f9b2c14, type: 3}
+    - {fileID: 100000, guid: c468dcbdc5d3b9041a6a5cf233973bb9, type: 3}
+    - {fileID: 100000, guid: b499bbcb63b544141995d49d23ac7e2c, type: 3}
+    - {fileID: 100000, guid: 370452cb5b12ae64297537e871d61337, type: 3}
+    - {fileID: 100000, guid: e846f844c7222374a8217f8d9d36939d, type: 3}
+    - {fileID: 100000, guid: a97a99154bf1b3c4db17eb8c81aa1501, type: 3}
+    - {fileID: 100000, guid: 78fd0369308ae7742b2d4b324f5b1944, type: 3}
+    male:
+    - {fileID: 100000, guid: 0c083704fbd780e428723bf97f304b71, type: 3}
+    - {fileID: 100000, guid: edc2488af7adcdc4790d84876572fc01, type: 3}
+    - {fileID: 100000, guid: 7b8bf68328a96094eaf2ae6cc937c34b, type: 3}
+    - {fileID: 100000, guid: 297df38c71ace6b4490e9d41ac4b5c6b, type: 3}
+    - {fileID: 100000, guid: d73a56298b791ce488cf149731bd045d, type: 3}
+    - {fileID: 100000, guid: 3533bcb1c53779545840187199010a70, type: 3}
+    - {fileID: 100000, guid: e2616f0d24c48f847b263f52402eeddc, type: 3}
+    - {fileID: 100000, guid: 784fa90090928324a96aa9cd4611cd91, type: 3}
+  instrumentPrefabs:
+  - {fileID: 100000, guid: 40b0997a7ae39f3418058f3b86244480, type: 3}
+  - {fileID: 100000, guid: 4cf2b1857af2cb74795d8b307abf0d7a, type: 3}
+  - {fileID: 100000, guid: f802193d26c374f4ba0358e904cf42d9, type: 3}
+  - {fileID: 100000, guid: 2190adc152dd60448a44154175882893, type: 3}
+  - {fileID: 100000, guid: 22b79ffa02a5d0442875e8f4d83b5039, type: 3}
+  - {fileID: 100000, guid: 11f5b335f6f7be64483b7d3a20f9b032, type: 3}
+  drumstickPrefab: {fileID: 100000, guid: ec995dc225d474f4aa7e145d07f3a2ed, type: 3}
+  malePoses:
+  - {fileID: 100000, guid: 5ae3cea04a8c91746bad230959a8efef, type: 3}
+  - {fileID: 100000, guid: 5642ce9969ffcc2418f0b8f35a6cbf60, type: 3}
+  - {fileID: 100000, guid: 07d6743f1ef544045bc6f78643ad2a19, type: 3}
+  - {fileID: 100000, guid: e4d98541a3c69294b9926721ca470988, type: 3}
+  femalePoses:
+  - {fileID: 100000, guid: ce68607bad8390d4796167afd61e3c87, type: 3}
+  - {fileID: 100000, guid: f2d3cdce79dc7624f9d20ecdc535266e, type: 3}
+  - {fileID: 100000, guid: a9742345cc81b25459ce98277b5cf8ca, type: 3}
+  - {fileID: 100000, guid: 06f22f770e69fb341bcfa69195b44f89, type: 3}
+  - {fileID: 100000, guid: 7c5c97f08e56be940a8de9d0bf4ab47b, type: 3}
+  - {fileID: 100000, guid: 0936439785a625e41ab4f9e2a7c84ee8, type: 3}
+  universalPoses:
+  - {fileID: 100000, guid: 6ea08f8587670d94ab0cc0e3d9d739f8, type: 3}
+  - {fileID: 100000, guid: 758c804c59a36a045be88a6fa0f4c029, type: 3}
+  - {fileID: 100000, guid: 4e790542ef68a164f99d47c375afe041, type: 3}
+  - {fileID: 100000, guid: 6f05c878335a1ad4296e12beaab50e92, type: 3}
+  - {fileID: 100000, guid: 4a688b2bd614936469503b1136e54cf2, type: 3}
+  guitarBassPoses:
+  - {fileID: 100000, guid: e78b4be3be265f34d92612b394155d86, type: 3}
+  - {fileID: 100000, guid: a9a525aea921f464dab8401146b3369c, type: 3}
+  - {fileID: 100000, guid: 29bfa5ed5a72fa94788f732983d46c9a, type: 3}
+  - {fileID: 100000, guid: 3006741bf7bb2154abf13ba636546ead, type: 3}
+  microphonePoses:
+  - {fileID: 100000, guid: 829f4b301fc96ed40abc6f3cc8b9ce56, type: 3}
+  - {fileID: 100000, guid: 752778e962a98ab4aacdf28cd392cf9a, type: 3}
+  skins:
+  - options:
+    - {fileID: 2800000, guid: 6b203eca2cbb6454f984a1531be0baf3, type: 3}
+    - {fileID: 2800000, guid: f6cec673613f54202957577ad78b971e, type: 3}
+    - {fileID: 2800000, guid: c3e98e385c575422388a667eb33d08be, type: 3}
+    - {fileID: 2800000, guid: 0dd71d702d77b4a0d94fbdba00f91933, type: 3}
+    - {fileID: 2800000, guid: 06d72a10904864845bd2b8aeddc964d5, type: 3}
+    - {fileID: 2800000, guid: d356c56548eae46e39f61a9c0b953ea6, type: 3}
+    - {fileID: 2800000, guid: 44310c165f90342778cf64bfdc3fd0d6, type: 3}
+    - {fileID: 2800000, guid: 4323feabf1d4940fdb1453e37cf00286, type: 3}
+    - {fileID: 2800000, guid: 044fd5340021d4c108b718dca9e4aa65, type: 3}
+    - {fileID: 2800000, guid: eeed38a26657a44d19f7d949d10f44a8, type: 3}
+    - {fileID: 2800000, guid: 549cddce641f24c189c492c9544d585f, type: 3}
+    - {fileID: 2800000, guid: 80e6fc12ec232421eb75928ed0dbc51a, type: 3}
+  - options:
+    - {fileID: 2800000, guid: da4eab19b644d4cb8a5ca663bfada0a4, type: 3}
+    - {fileID: 2800000, guid: 5bb8d57434f354f4c8dc32bbad943597, type: 3}
+    - {fileID: 2800000, guid: 2d6b46665e5da4e8a91e487f96806ae5, type: 3}
+    - {fileID: 2800000, guid: 6589ddf98df964de6933f79696f9ac44, type: 3}
+    - {fileID: 2800000, guid: 1a8aa77238f5247f3947cb957b4b5931, type: 3}
+    - {fileID: 2800000, guid: 5b08956b8860f4bde8e4b56d7d2d0a3d, type: 3}
+    - {fileID: 2800000, guid: 36e9cb905194e4105b6acd735cceac5b, type: 3}
+    - {fileID: 2800000, guid: c48f2575887704cdeb1ab6382fa18bf7, type: 3}
+    - {fileID: 2800000, guid: b9219f997041f44c58c03dbf56f1d5ad, type: 3}
+    - {fileID: 2800000, guid: 54977db9601624d1a9bd0c177027742e, type: 3}
+    - {fileID: 2800000, guid: 97b82bc137aeb4d7c99ac21f9a2ea522, type: 3}
+    - {fileID: 2800000, guid: 0e5384dadda7143a3b379f652e7c2812, type: 3}
+  - options:
+    - {fileID: 2800000, guid: d4136e70817c848c8a6f7a7ccd7dc687, type: 3}
+    - {fileID: 2800000, guid: f8a9ecb93980445829e9408d4ac0ab69, type: 3}
+    - {fileID: 2800000, guid: ddb875777340742d5ad5f9d2b6b44857, type: 3}
+    - {fileID: 2800000, guid: 78c816bdd18264da098e0e58accd951d, type: 3}
+    - {fileID: 2800000, guid: 9506ee03ba69e4fbab40e5a36f2b50d4, type: 3}
+    - {fileID: 2800000, guid: 4635c429063784320a9cdd6c7709ef17, type: 3}
+    - {fileID: 2800000, guid: 491dda29c86b34542b49db0f17de8068, type: 3}
+    - {fileID: 2800000, guid: ca671cae33f3845c89812a0bbc4d13f2, type: 3}
+    - {fileID: 2800000, guid: cefff31784a4941a38a58d8bbe250908, type: 3}
+    - {fileID: 2800000, guid: 31f33f539972f41f0941318c643e92d2, type: 3}
+    - {fileID: 2800000, guid: 644222c16a42342df9f9267cd642d627, type: 3}
+    - {fileID: 2800000, guid: 624d5a7bde5604d91ba23ba3b7bf036b, type: 3}
+  - options:
+    - {fileID: 2800000, guid: 08e54f2d8f04b4b68a7d51c432363424, type: 3}
+    - {fileID: 2800000, guid: 8ae382e2b129a406589dbc90eba3b957, type: 3}
+    - {fileID: 2800000, guid: 6a46cb5d88ed943e7a0daa659d9bf5da, type: 3}
+    - {fileID: 2800000, guid: 944a4bd5078ae44bb921258358cf264b, type: 3}
+    - {fileID: 2800000, guid: 8f52f138af7114a16829a951b4c8ac79, type: 3}
+    - {fileID: 2800000, guid: c9411d8d1fd6f4285a55203fcabb4119, type: 3}
+    - {fileID: 2800000, guid: c25b8def4e6d04ce5902d033c8e75918, type: 3}
+    - {fileID: 2800000, guid: 71f5d06e4a3234578b1448623897ee8d, type: 3}
+    - {fileID: 2800000, guid: bdaa1dd8b9ff84767af86f19c244fb0d, type: 3}
+    - {fileID: 2800000, guid: e4e04faf178bd4520b6cb3ce93a00b51, type: 3}
+    - {fileID: 2800000, guid: bdec5bdc269a34cc3a01a09a9d3cacc6, type: 3}
+    - {fileID: 2800000, guid: 40bdb7e55a38840969b85f41caad5fef, type: 3}
+  - options:
+    - {fileID: 2800000, guid: e42bd1caa24a24066891a36ec5f337c5, type: 3}
+    - {fileID: 2800000, guid: 55cab2d482717476a97fea0aa122cf75, type: 3}
+    - {fileID: 2800000, guid: e7a5ab9d9b7af42c6b0dcd98459e2903, type: 3}
+    - {fileID: 2800000, guid: 55977e9b51fb6412ea449cfae5b25dfd, type: 3}
+    - {fileID: 2800000, guid: 48867175ddc734374951a93c4682e0ea, type: 3}
+    - {fileID: 2800000, guid: a36118b95e7b0493c97a3eb83e016110, type: 3}
+    - {fileID: 2800000, guid: 3afb8ed2f54aa4cddb570e62e384f4ff, type: 3}
+    - {fileID: 2800000, guid: 5e7b2be2082e041ecb52dd3aa24109b4, type: 3}
+    - {fileID: 2800000, guid: 69b9dfbf973084fd7b2663bc623a851a, type: 3}
+    - {fileID: 2800000, guid: 7c390c3b99ca6497ab4204e1826fc0f2, type: 3}
+    - {fileID: 2800000, guid: a4e28b65c3e454344aecd68c2a850e5a, type: 3}
+    - {fileID: 2800000, guid: 9b405b4fe7e514e4ebf9b4c1391e7544, type: 3}
+  unshadowedMaterial: {fileID: 2100000, guid: fc07cea827c384409a02bbc017696b0f, type: 2}
+  shadowedMaterial: {fileID: 2100000, guid: 3225c50a3898440bb84464fbb7aefc3b, type: 2}
+  unshadowedInstrumentMaterial: {fileID: 2100000, guid: a7dbbf6bc89d34d10a5112716ee4810d,
+    type: 2}
+  shadowedInstrumentMaterial: {fileID: 2100000, guid: 8b280e896690044178b3ce3eaaa310d8,
+    type: 2}
+  animatorController: {fileID: 9100000, guid: 10e5395a8c679dc4aae08ee3bfb21e5e, type: 2}
+  avatar: {fileID: 9000000, guid: 08a0396bc34c845f5b922453d53dcf60, type: 3}
+  minTimeBetweenTwitches: 15
+  maxTimeBetweenTwitches: 30

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9f933aa75bf0a45b4fd58e967d73ea, type: 3}
+  m_Name: Genres
+  m_EditorClassIdentifier: 
+  Contents:
+  - inspectorTitle: Rock
+    statTypeDropdown:
+      Type: 2
+      SubType: 24
+    Color: {r: 0.52156866, g: 0.28627452, b: 0.69803923, a: 1}
+    DarkColor: {r: 0.34629682, g: 0.21542364, b: 0.4433962, a: 1}
+    LightColor: {r: 0.84313726, g: 0.7411765, b: 0.84313726, a: 1}
+    floatVal: 0
+  - inspectorTitle: Rap
+    statTypeDropdown:
+      Type: 2
+      SubType: 28
+    Color: {r: 0.24705882, g: 0.20784314, b: 0.30980393, a: 1}
+    DarkColor: {r: 0.2784314, g: 0.23529412, b: 0.3372549, a: 1}
+    LightColor: {r: 0.7254902, g: 0.7019608, b: 0.7647059, a: 1}
+    floatVal: 0
+  - inspectorTitle: Pop
+    statTypeDropdown:
+      Type: 2
+      SubType: 25
+    Color: {r: 0.7137255, g: 0.2627451, b: 0.45882353, a: 1}
+    DarkColor: {r: 0.4339623, g: 0.18627627, b: 0.2947863, a: 1}
+    LightColor: {r: 0.8627451, g: 0.74509805, b: 0.80784315, a: 1}
+    floatVal: 0
+  - inspectorTitle: Hip Hop
+    statTypeDropdown:
+      Type: 2
+      SubType: 27
+    Color: {r: 0.101960786, g: 0.34117648, b: 0.54509807, a: 1}
+    DarkColor: {r: 0.123353496, g: 0.28084192, b: 0.41509432, a: 1}
+    LightColor: {r: 0.7019608, g: 0.7607843, b: 0.8156863, a: 1}
+    floatVal: 0
+  - inspectorTitle: R&B
+    statTypeDropdown:
+      Type: 2
+      SubType: 26
+    Color: {r: 0.8584906, g: 0.64705884, b: 0, a: 1}
+    DarkColor: {r: 0.4117647, g: 0.27058825, b: 0.11764706, a: 1}
+    LightColor: {r: 0.85882354, g: 0.7882353, b: 0.7372549, a: 1}
+    floatVal: 0
+  - inspectorTitle: Electronic
+    statTypeDropdown:
+      Type: 2
+      SubType: 29
+    Color: {r: 0.09411765, g: 0.5803922, b: 0.47058824, a: 1}
+    DarkColor: {r: 0.22745098, g: 0.3764706, b: 0.3764706, a: 1}
+    LightColor: {r: 0.6784314, g: 0.8039216, b: 0.7921569, a: 1}
+    floatVal: 0

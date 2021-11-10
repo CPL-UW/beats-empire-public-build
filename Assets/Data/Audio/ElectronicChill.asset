@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: ElectronicChill
+  m_EditorClassIdentifier: 
+  BPM: 75
+  drumsTrack: {fileID: 8300000, guid: daea35139c55a014bbe0e11cad359c8a, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: ea6cf61628ead414491b638c16d80a11, type: 3}
+  beatTrack: electronic_C01_075BPM_K10_P2
+  beatFiltered: electronic_C01_075BPM_K10_S2
+  releaseGood: electronic_C01_075BPM_K10_RG
+  releaseBest: electronic_C01_075BPM_K10_RB
+  GenreID: 29
+  MoodID: 3

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: RapUpbeat
+  m_EditorClassIdentifier: 
+  BPM: 150
+  drumsTrack: {fileID: 8300000, guid: e1b69db12dcf394449147c9eb737f416, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: a8f861611a84a554090a4043929f1fcc, type: 3}
+  beatTrack: rap_U01_100BPM_K10_P2
+  beatFiltered: rap_U01_100BPM_K10_S2
+  releaseGood: rap_U01_100BPM_K10_RG
+  releaseBest: rap_U01_100BPM_K10_RB
+  GenreID: 28
+  MoodID: 2

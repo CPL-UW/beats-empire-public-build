@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bb49966c68f0491da10ec574b4d85e4, type: 3}
+  m_Name: Colors
+  m_EditorClassIdentifier: 
+  hoverBackground: {r: 0.09019608, g: 0.33333334, b: 0.36862746, a: 1}
+  hoverPopulationBackground: {r: 0.13333334, g: 0.57254905, b: 0.5764706, a: 1}
+  hoverTraitsBackground: {r: 0.2901961, g: 0.6784314, b: 0.67058825, a: 1}
+  hoverTrendBackground: {r: 0.14901961, g: 0.4862745, b: 0.5176471, a: 1}
+  selectedBackground: {r: 0.5019608, g: 0.11372549, b: 0.25490198, a: 1}
+  selectedPopulationBackground: {r: 0.6745098, g: 0.13725491, b: 0.37254903, a: 1}
+  selectedTraitsBackground: {r: 0.8156863, g: 0.15686275, b: 0.39215687, a: 1}
+  selectedTrendBackground: {r: 0.7137255, g: 0.14117648, b: 0.3764706, a: 1}
+  selectedBoroughTextColor: {r: 1, g: 1, b: 1, a: 1}
+  unselectedBoroughTextColor: {r: 0, g: 0, b: 0, a: 1}
+  recordingTraitMandatorySelectedColor: {r: 0.13333334, g: 0.13333334, b: 0.13333334,
+    a: 1}
+  recordingTraitMandatoryUnselectedColor: {r: 0.30980393, g: 0.30980393, b: 0.30980393,
+    a: 1}
+  recordingTraitOptionalSelectedColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+  recordingTraitOptionalUnselectedColor: {r: 0.59607846, g: 0.59607846, b: 0.59607846,
+    a: 1}
+  recordingTraitPressedColor: {r: 0.8666667, g: 0.09803922, b: 0.3137255, a: 1}
+  recordingTraitDisabledColor: {r: 0.9019608, g: 0.9098039, b: 0.90588236, a: 1}
+  recordingTraitLabelPredicted: {r: 1, g: 1, b: 1, a: 1}
+  recordingTraitLabelUnpredicted: {r: 1, g: 1, b: 1, a: 0.29803923}
+  recordingTraitLabelUnknown: {r: 1, g: 1, b: 1, a: 1}
+  recordingTraitLabelSelectable: {r: 1, g: 1, b: 1, a: 1}
+  heatmapSelectedBoroughColor: {r: 1, g: 1, b: 1, a: 1}
+  heatmapUnlockedBoroughColor: {r: 0.23921569, g: 0.5294118, b: 0.59607846, a: 1}
+  heatmapLockedBoroughColor: {r: 0.36078432, g: 0.24313726, b: 0.4509804, a: 1}
+  dotFinishedColor: {r: 1, g: 0.8039216, b: 0, a: 1}
+  dotUnfinishedColor: {r: 0.84313726, g: 0.14117648, b: 0.39215687, a: 1}
+  dotUnfilledColor: {r: 0.9254902, g: 0.85882354, b: 0.8901961, a: 1}
+  preRecordingColor: {r: 0.20392157, g: 0.8509804, b: 0.7921569, a: 1}
+  midRecordingColor: {r: 0.84313726, g: 0.14117648, b: 0.39215687, a: 1}
+  postRecordingColor: {r: 1, g: 0.7882353, b: 0.1882353, a: 1}
+  selectedBackgroundColor: {r: 0.21176471, g: 0.8980392, b: 0.8235294, a: 1}
+  hoverBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  unhiredTraitColor: {r: 0.2901961, g: 0.45882353, b: 0.5019608, a: 1}
+  hiredTraitColor: {r: 0.40784314, g: 0.28235295, b: 0.54901963, a: 1}
+  hudArtistsBackgroundColor: {r: 0.14901961, g: 0.4862745, b: 0.5568628, a: 1}
+  hudMarketingBackgroundColor: {r: 0.5372549, g: 0.41960785, b: 0.7019608, a: 1}
+  hudRecordingBackgroundColor: {r: 0.7372549, g: 0.07450981, b: 0.3882353, a: 1}
+  hudResultsBackgroundColor: {r: 0.25490198, g: 0.37254903, b: 0.43529412, a: 1}
+  hudDefaultMuteBackgroundColor: {r: 0.3019608, g: 0.3019608, b: 0.3019608, a: 1}
+  recordingShadowColor: {r: 0.6117647, g: 0.48627454, b: 0.3529412, a: 0}
+  artistShadowColor: {r: 0, g: 0, b: 0, a: 0}
+  marketingShadowColor: {r: 0, g: 0, b: 0, a: 0}
+  rockColor:
+    dark: {r: 0.54901963, g: 0.3019608, b: 0.7294118, a: 1}
+    midtone: {r: 0.64705884, g: 0.33333334, b: 0.8901961, a: 1}
+    light: {r: 0, g: 0, b: 0, a: 0}
+  popColor:
+    dark: {r: 0.7254902, g: 0.29803923, b: 0.6784314, a: 1}
+    midtone: {r: 0.9529412, g: 0.32941177, b: 0.8862745, a: 1}
+    light: {r: 0, g: 0, b: 0, a: 0}
+  rbColor:
+    dark: {r: 0.78431374, g: 0.5568628, b: 0.09411765, a: 1}
+    midtone: {r: 1, g: 0.6862745, b: 0, a: 1}
+    light: {r: 0, g: 0, b: 0, a: 0}
+  hipHopColor:
+    dark: {r: 0.27450982, g: 0.5137255, b: 0.79607844, a: 1}
+    midtone: {r: 0.4627451, g: 0.6117647, b: 0.9372549, a: 1}
+    light: {r: 0, g: 0, b: 0, a: 0}
+  rapColor:
+    dark: {r: 0.32941177, g: 0.3137255, b: 0.5568628, a: 1}
+    midtone: {r: 0.3647059, g: 0.29411766, b: 0.6509804, a: 1}
+    light: {r: 0, g: 0, b: 0, a: 0}
+  electronicColor:
+    dark: {r: 0.2784314, g: 0.6313726, b: 0.6117647, a: 1}
+    midtone: {r: 0.44705883, g: 0.972549, b: 1, a: 1}
+    light: {r: 0, g: 0, b: 0, a: 0}

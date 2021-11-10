@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: ElectronicAngry
+  m_EditorClassIdentifier: 
+  BPM: 160
+  drumsTrack: {fileID: 8300000, guid: 0880e7166d995434f9a9043415270817, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: 122e203023d636a43bd35337f7e43fd1, type: 3}
+  beatTrack: electronic_A01_160BPM_K04_P2
+  beatFiltered: electronic_A01_160BPM_K04_S2
+  releaseGood: electronic_A01_160BPM_K04_RG
+  releaseBest: electronic_A01_160BPM_K04_RB
+  GenreID: 29
+  MoodID: 6

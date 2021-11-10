@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 4c4258c7e0b2c9d418096e083e78e5d3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_end
+    100004: //RootNode
+    100006: L_ArmElbow
+    100008: L_ArmElbow_end
+    100010: L_ArmShoulder
+    100012: L_Clav
+    100014: L_ElbowTarget
+    100016: L_ElbowTarget_end
+    100018: L_Foot
+    100020: L_Foot_end
+    100022: L_Hand
+    100024: L_Hand_end
+    100026: L_Head
+    100028: L_Head_end
+    100030: L_KneeTarget
+    100032: L_KneeTarget_end
+    100034: L_LegLow
+    100036: L_LegLow_end
+    100038: L_LegUp
+    100040: L_Neck
+    100042: L_SpineLow
+    100044: L_SpineRoot
+    100046: L_SpineUp
+    100048: R_ArmElbow
+    100050: R_ArmElbow_end
+    100052: R_ArmShoulder
+    100054: R_Clav
+    100056: R_ElbowTarget
+    100058: R_ElbowTarget_end
+    100060: R_Foot
+    100062: R_Foot_end
+    100064: R_Hand
+    100066: R_Hand_end
+    100068: R_KneeTarget
+    100070: R_KneeTarget_end
+    100072: R_LegLow
+    100074: R_LegLow_end
+    100076: R_LegUp
+    100078: MusicStudio_HumanRig
+    400000: Bone
+    400002: Bone_end
+    400004: //RootNode
+    400006: L_ArmElbow
+    400008: L_ArmElbow_end
+    400010: L_ArmShoulder
+    400012: L_Clav
+    400014: L_ElbowTarget
+    400016: L_ElbowTarget_end
+    400018: L_Foot
+    400020: L_Foot_end
+    400022: L_Hand
+    400024: L_Hand_end
+    400026: L_Head
+    400028: L_Head_end
+    400030: L_KneeTarget
+    400032: L_KneeTarget_end
+    400034: L_LegLow
+    400036: L_LegLow_end
+    400038: L_LegUp
+    400040: L_Neck
+    400042: L_SpineLow
+    400044: L_SpineRoot
+    400046: L_SpineUp
+    400048: R_ArmElbow
+    400050: R_ArmElbow_end
+    400052: R_ArmShoulder
+    400054: R_Clav
+    400056: R_ElbowTarget
+    400058: R_ElbowTarget_end
+    400060: R_Foot
+    400062: R_Foot_end
+    400064: R_Hand
+    400066: R_Hand_end
+    400068: R_KneeTarget
+    400070: R_KneeTarget_end
+    400072: R_LegLow
+    400074: R_LegLow_end
+    400076: R_LegUp
+    400078: MusicStudio_HumanRig
+    7400000: MusicStudio_HumanRig|MusicStudio_HumanRigAction
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: L_SpineRoot
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_LegUp
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_LegUp
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_LegLow
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_LegLow
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_LegLow_end
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_LegLow_end
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_SpineLow
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_SpineUp
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Clav
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_ArmShoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_ArmElbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_ArmElbow_end
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Clav
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_ArmShoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_ArmElbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_ArmElbow_end
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: CMS_TestAnim(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MusicStudio_HumanRig
+      parentName: CMS_TestAnim(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Bone
+      parentName: MusicStudio_HumanRig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_end
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ElbowTarget
+      parentName: MusicStudio_HumanRig
+      position: {x: -0.024852423, y: 0.014774545, z: 0.08201752}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ElbowTarget_end
+      parentName: L_ElbowTarget
+      position: {x: -0, y: 0.008143705, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Foot
+      parentName: MusicStudio_HumanRig
+      position: {x: -0.0052749286, y: -0.0000000023646978, z: 0.0048419326}
+      rotation: {x: -0.00000020026549, y: -0.22754247, z: 0.9737682, w: 0.00000008994867}
+      scale: {x: 1, y: 0.9999999, z: 0.9999995}
+    - name: L_Foot_end
+      parentName: L_Foot
+      position: {x: -0, y: 0.009536879, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand
+      parentName: MusicStudio_HumanRig
+      position: {x: -0.038279675, y: -0.00010670762, z: 0.08201752}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_end
+      parentName: L_Hand
+      position: {x: -0, y: 0.010898826, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_KneeTarget
+      parentName: MusicStudio_HumanRig
+      position: {x: -0.014498285, y: -0.011557856, z: 0.027832594}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_KneeTarget_end
+      parentName: L_KneeTarget
+      position: {x: -0, y: 0.009239258, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_SpineRoot
+      parentName: MusicStudio_HumanRig
+      position: {x: -0, y: 0, z: 0.050516333}
+      rotation: {x: 0.7071068, y: -0.00000008429372, z: -0.0000000842937, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_LegUp
+      parentName: L_SpineRoot
+      position: {x: -0.0052749286, y: 0.0003690052, z: 0.000000001257641}
+      rotation: {x: 0.94353336, y: -0.008285125, z: 0.33032727, w: 0.023665307}
+      scale: {x: 0.9999999, y: 1, z: 0.99997354}
+    - name: L_LegLow
+      parentName: L_LegUp
+      position: {x: 1.4808392e-10, y: 0.023081765, z: -2.9802322e-10}
+      rotation: {x: 0.0501984, y: -0.0000000066923094, z: -0.000000008339709, w: 0.99873924}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: L_LegLow_end
+      parentName: L_LegLow
+      position: {x: -0, y: 0.02301976, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_SpineLow
+      parentName: L_SpineRoot
+      position: {x: -0, y: 0.009103112, z: 0}
+      rotation: {x: 0, y: 0.00000011920929, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_SpineUp
+      parentName: L_SpineLow
+      position: {x: -0, y: 0.009604115, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Clav
+      parentName: L_SpineUp
+      position: {x: -0.0034182812, y: 0.01103271, z: 0.0032158413}
+      rotation: {x: -0.5292382, y: 0.41275454, z: 0.3203364, w: 0.6685247}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: L_ArmShoulder
+      parentName: L_Clav
+      position: {x: 2.7939676e-10, y: 0.007507991, z: 0.000000003328314}
+      rotation: {x: -0.116122715, y: 0.022051299, z: 0.22080988, w: 0.96812826}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: L_ArmElbow
+      parentName: L_ArmShoulder
+      position: {x: 4.7089086e-11, y: 0.014857065, z: -0.000000012651389}
+      rotation: {x: 0.000000004476117, y: 1.4814179e-10, z: 0.033085678, w: 0.99945253}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: L_ArmElbow_end
+      parentName: L_ArmElbow
+      position: {x: -0, y: 0.01352478, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Neck
+      parentName: L_SpineUp
+      position: {x: -0, y: 0.015729366, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Head
+      parentName: L_Neck
+      position: {x: -0, y: 0.004422846, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Head_end
+      parentName: L_Head
+      position: {x: -0, y: 0.014605246, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Clav
+      parentName: L_SpineUp
+      position: {x: 0.0031403946, y: 0.01103271, z: 0.0032158413}
+      rotation: {x: -0.34308952, y: -0.09024843, z: -0.5149471, w: 0.78036803}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: R_ArmShoulder
+      parentName: R_Clav
+      position: {x: -0.0000000010244549, y: 0.0075190393, z: -0.0000000011641532}
+      rotation: {x: -0.011416668, y: -0.43088317, z: -0.24883142, w: 0.86734784}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: R_ArmElbow
+      parentName: R_ArmShoulder
+      position: {x: 3.294417e-11, y: 0.014886781, z: -0.000000005919863}
+      rotation: {x: 0.000000024637604, y: 0.000000016004739, z: -0.033013258, w: 0.9994549}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: R_ArmElbow_end
+      parentName: R_ArmElbow
+      position: {x: -0, y: 0.013552249, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_LegUp
+      parentName: L_SpineRoot
+      position: {x: 0.005133776, y: 0.0003690052, z: -0.0000000012239876}
+      rotation: {x: 0.92970246, y: 0.009215875, z: -0.36745703, w: 0.023317363}
+      scale: {x: 0.9999999, y: 1, z: 0.99997354}
+    - name: R_LegLow
+      parentName: R_LegUp
+      position: {x: -6.705568e-10, y: 0.023081772, z: -3.72529e-10}
+      rotation: {x: 0.05019634, y: 0.000000014950187, z: -0.000000006619348, w: 0.99873936}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: R_LegLow_end
+      parentName: R_LegLow
+      position: {x: -0, y: 0.02301976, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ElbowTarget
+      parentName: MusicStudio_HumanRig
+      position: {x: 0.024617033, y: 0.014774545, z: 0.08201752}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ElbowTarget_end
+      parentName: R_ElbowTarget
+      position: {x: -0, y: 0.008143705, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Foot
+      parentName: MusicStudio_HumanRig
+      position: {x: 0.005133776, y: 0, z: 0.004841928}
+      rotation: {x: -0.00000020026549, y: -0.22754247, z: 0.9737682, w: 0.00000008994867}
+      scale: {x: 1, y: 0.9999999, z: 0.9999995}
+    - name: R_Foot_end
+      parentName: R_Foot
+      position: {x: -0, y: 0.009536879, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand
+      parentName: MusicStudio_HumanRig
+      position: {x: 0.038071774, y: -0.00010670762, z: 0.08201752}
+      rotation: {x: 0.50000006, y: 0.49999994, z: 0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_end
+      parentName: R_Hand
+      position: {x: -0, y: 0.010911439, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_KneeTarget
+      parentName: MusicStudio_HumanRig
+      position: {x: 0.01596176, y: -0.011557856, z: 0.027832594}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_KneeTarget_end
+      parentName: R_KneeTarget
+      position: {x: -0, y: 0.009239258, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: fa1d15f8c3aefd94f96f45d8c222cbbc,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

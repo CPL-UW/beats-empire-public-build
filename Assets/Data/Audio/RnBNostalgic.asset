@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: RnBNostalgic
+  m_EditorClassIdentifier: 
+  BPM: 95
+  drumsTrack: {fileID: 8300000, guid: c18f9683741e7fe4193c5355fe4b6908, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: 4457f1c96e88b9f4ab7152fe8eae4e51, type: 3}
+  beatTrack: rnb_N01_095BPM_K12_P2
+  beatFiltered: rnb_N01_095BPM_K12_S2
+  releaseGood: rnb_N01_095BPM_K12_RG
+  releaseBest: rnb_N01_095BPM_K12_RB
+  GenreID: 26
+  MoodID: 7

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dbb090341bc89d048b71c572e6c65122
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parameters: {instanceID: 0}
+  - spotNumber: {instanceID: 0}
+  - songTitle: {instanceID: 0}
+  - artistName: {instanceID: 0}
+  - listensNumber: {instanceID: 0}
+  - salesNumberLabel: {instanceID: 0}
+  - weekLabel: {instanceID: 0}
+  - background: {instanceID: 0}
+  - trophyRoot: {instanceID: 0}
+  - backgroundDisable: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

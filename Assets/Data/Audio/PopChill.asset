@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: PopChill
+  m_EditorClassIdentifier: 
+  BPM: 75
+  drumsTrack: {fileID: 8300000, guid: e9b67d08ea3c4c54886233d55ac29a76, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: 9d71f22d82d9a7847be29cbe63f44ced, type: 3}
+  beatTrack: pop_C01_075BPM_K04_P2
+  beatFiltered: pop_C01_075BPM_K04_S2
+  releaseGood: pop_C01_075BPM_K04_RG
+  releaseBest: pop_C01_075BPM_K04_RB
+  GenreID: 25
+  MoodID: 3

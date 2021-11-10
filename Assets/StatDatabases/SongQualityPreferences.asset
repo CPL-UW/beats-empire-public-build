@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9f933aa75bf0a45b4fd58e967d73ea, type: 3}
+  m_Name: SongQualityPreferences
+  m_EditorClassIdentifier: 
+  Contents:
+  - inspectorTitle: Voice
+    statTypeDropdown:
+      Type: 4
+      SubType: 20
+    Color: {r: 0.6102941, g: 0, b: 0, a: 1}
+    floatVal: 0
+  - inspectorTitle: Melody
+    statTypeDropdown:
+      Type: 4
+      SubType: 21
+    Color: {r: 0.24264705, g: 1, b: 0.56125754, a: 1}
+    floatVal: 0
+  - inspectorTitle: Lyrics
+    statTypeDropdown:
+      Type: 4
+      SubType: 22
+    Color: {r: 0.32352942, g: 0.32352942, b: 0.32352942, a: 1}
+    floatVal: 0
+  - inspectorTitle: Beat
+    statTypeDropdown:
+      Type: 4
+      SubType: 23
+    Color: {r: 0.31906697, g: 0, b: 0.32352942, a: 1}
+    floatVal: 0

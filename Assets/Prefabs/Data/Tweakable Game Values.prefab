@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1083910704961354}
+  m_IsPrefabParent: 1
+--- !u!1 &1083910704961354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224358611966905624}
+  - component: {fileID: 114931422398428426}
+  - component: {fileID: 114518218593318036}
+  - component: {fileID: 114921301274214932}
+  - component: {fileID: 114968237737931610}
+  - component: {fileID: 114580704365970858}
+  m_Layer: 0
+  m_Name: Tweakable Game Values
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &114518218593318036
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083910704961354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e9d1659f3c1f42478a628c7ef817d32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ExtraStatRollsPerSpeed: 0.5
+  MinimumTurns: 2
+  PersistenceLowMaxOffset: 1
+  PersistenceHighMaxOffset: 2
+  BonusFansPercent: 10
+  BonusSalesPercent: 10
+  SuccessRateFloor: 0.1
+  BonusFansFixMin: 10
+  BonusFansFixMax: 200
+  SpotSalesThresholds: 40420f00f8590d00b0710b006889090020a10700
+  LowEndChartPos: 6
+  HighEndChartPos: 50
+  SalesToNextPos: 10000
+  SalelsToNextNextPos: 30000
+  FollowersNeededPerLevel: 0000000064000000e8030000d00700008813000010270000204e000050c30000a0860100400d0300
+--- !u!114 &114580704365970858
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083910704961354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20231dbdca208174b81b32fb5a6f660d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BonusInsightPercentFromUpgrades:
+  - 5
+  - 10
+  - 15
+  BonusSurgeLengthWeeks: 030000000500000008000000
+  BonusChanceToMakeHit: 0a0000000f00000019000000
+  BonusWeeksForSongSales:
+  - 2
+  - 3
+  - 4
+  BonusWeeksDecayRates:
+  - 0.075
+  - 0.15
+  - 0.225
+  BonusGetGenreArtistPercent:
+  - 10
+  - 25
+  - 50
+  BooklineUnlockCost: 5000000
+  MadhatterUnlockCost: 8000000
+  KingsIsleUnlockCost: 150000
+  IronwoodUnlockCost: 1500000
+  TheBronzUnlockCost: 500000
+  boroughCard1UnlockCosts:
+  - 0
+  - 0
+  - 0
+  boroughCard2UnlockCosts:
+  - 50000
+  - 150000
+  - 500000
+  boroughCard3UnlockCosts:
+  - 75000
+  - 250000
+  - 750000
+  genreCard1UnlockCosts:
+  - 100000
+  - 300000
+  - 1000000
+  genreCard2UnlockCosts:
+  - 30000
+  - 100000
+  - 300000
+  genreCard3UnlockCosts:
+  - 150000
+  - 500000
+  - 1500000
+--- !u!114 &114921301274214932
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083910704961354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc67e60d07434ea489a5ebceb4cc2dd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TurtleHillPopulation: 300000
+  MadhatterPopulation: 3000000
+  IronwoodPopulation: 1350000
+  BronzPopulation: 900000
+  KingsIslePopulation: 450000
+  BooklinePopulation: 2150000
+  TargetedLocationMultiplier: 3
+  CashPerSale: 1.5
+  CashPerListen: 0.003
+  DecayRate: 0.3
+  HypeDecayRate: 0.25
+  FatigueDecayRate: 0.25
+  HypeDiminishingFactor: 0.9
+  IndustryListensOffset: 20000
+  IndustryListensRandomizer: 10000
+  IndustryListensFactor: 1000000
+  FollowerConversionFactor: 0.25
+  FollowerAppealThreshold: 0.3
+  WordOfMouthSalesMultiplier: 1
+  WordOfMouthListensMultiplier: 100
+  FanRatingFloor: 0
+  GraphYAxisMultiplier: 1
+  TurtleHillInterests:
+  - 0
+  - 1
+  - 0
+  KingsIsleInterests:
+  - 0
+  - 0
+  - 1
+  BronzInterests:
+  - 0.5
+  - 0.5
+  - 0
+  IronwoodInterests:
+  - 0.5
+  - 0
+  - 0.5
+  BooklineInterests:
+  - 0
+  - 0.5
+  - 0.5
+  MadhatterInterests:
+  - 0.333
+  - 0.333
+  - 0.333
+  TurtleHillCaresAbout: 000100
+  KingsIsleCaresAbout: 000001
+  BronzCaresAbout: 010100
+  IronwoodCaresAbout: 010001
+  BooklineCaresAbout: 000101
+  MadhatterCaresAbout: 010101
+  TurtleHillTrendString: Slow
+  KingsIsleTrendString: Fast
+  TheBronzTrendString: Slow
+  IronwoodTrendString: Fast
+  BooklineTrendString: Slow
+  MadhatterTrendString: Fast
+--- !u!114 &114931422398428426
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083910704961354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8065c7f72fcb39840aaede3a1d6f2e3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartingCash: 250000
+  StartingWeeks: 31
+  BaseChanceForArtist: 0.25
+  StartingFansPercentofPop: 2
+  initialStorageSlotCount: 5
+  isSampledMaximally: 0
+  weeksBeforeRemindingUpgrades: 40
+  weeksBeforeRemindingBoroughs: 45
+  weeksBeforeRemindingDataCollect: 43
+  MaxSongQuality: 15
+  DebugBandPoints: 
+--- !u!114 &114968237737931610
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083910704961354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 620bf6acce54bfe40a8999e5c19f5bf8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Tiers:
+  - MinimumPoints: 5
+    MaximumPoints: 8
+    MinimumFollowers: 0
+  - MinimumPoints: 8
+    MaximumPoints: 11
+    MinimumFollowers: 20000
+  - MinimumPoints: 11
+    MaximumPoints: 14
+    MinimumFollowers: 50000
+  - MinimumPoints: 14
+    MaximumPoints: 17
+    MinimumFollowers: 100000
+  - MinimumPoints: 17
+    MaximumPoints: 20
+    MinimumFollowers: 500000
+  NumStartingBands: 5
+  BaseBandCost: 1000
+  AdditionalBandCostPerPoint: 500
+  AdditionalBandCostMultiplierPerPoint: 1.2
+  CommonBandAvailabilityMinimumDuration: 7
+  CommonBandAvailabilityMaximumDuration: 10
+  RareBandAvailabilityMinimumDuration: 3
+  RareBandAvailabilityMaximumDuration: 5
+  WorseTierRate: 0.2
+  BetterTierRate: 0.2
+  MultiplierPerUpgrade: 1.25
+  UpgradeBaseCost: 15000
+--- !u!224 &224358611966905624
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083910704961354}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 69.30138}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -334.7283, y: -334.64978}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}

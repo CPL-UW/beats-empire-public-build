@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: RapAngry
+  m_EditorClassIdentifier: 
+  BPM: 80
+  drumsTrack: {fileID: 8300000, guid: 6b3682a2016d36744a801372cd730dd5, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: 515a8bf5ec3d060499d0470ad6336eaa, type: 3}
+  beatTrack: rap_A01_080BPM_K03_P2
+  beatFiltered: rap_A01_080BPM_K03_S2
+  releaseGood: rap_A01_080BPM_K03_RG
+  releaseBest: rap_A01_080BPM_K03_RB
+  GenreID: 28
+  MoodID: 6

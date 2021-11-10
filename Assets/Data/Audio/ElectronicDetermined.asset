@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c2e46634f2481439a355cb1a65b223, type: 3}
+  m_Name: ElectronicDetermined
+  m_EditorClassIdentifier: 
+  BPM: 150
+  drumsTrack: {fileID: 8300000, guid: a77e5ca2b72cbe147b599c68b7cc75f9, type: 3}
+  drumsFiltered: {fileID: 8300000, guid: 66118cb33e5e80247898d09360715cbf, type: 3}
+  beatTrack: electronic_D01_150BPM_K03_P2
+  beatFiltered: electronic_D01_150BPM_K03_S2
+  releaseGood: electronic_D01_150BPM_K03_RG
+  releaseBest: electronic_D01_150BPM_K03_RB
+  GenreID: 29
+  MoodID: 4
